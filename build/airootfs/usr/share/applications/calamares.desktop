@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Install Custom Arch OS
+Comment=Install this operating system to your computer
+Exec=gnome-terminal -- archinstall
+Icon=system-software-install
+Terminal=false
+Categories=System;
+

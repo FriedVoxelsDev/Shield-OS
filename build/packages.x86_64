@@ -1,0 +1,31 @@
+# --- System Core ---
+linux
+linux-firmware
+base
+
+# --- Display & Login Manager ---
+xorg-server
+gdm
+
+# --- OS Layer (Minimal GNOME) ---
+gnome-shell
+gnome-control-center
+nautilus
+gnome-terminal
+
+# --- Your Apps & Utilities ---
+falkon
+libreoffice-fresh
+flatpak
+
+# --- Installer Framework ---
+archinstall
+networkmanager
+network-manager-applet
+
+# --- Bootloader Essentials ---
+syslinux
+edk2-shell
+memtest86+
+memtest86+-efi
+
